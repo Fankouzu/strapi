@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "blinks",
+  "info": {
+    "singularName": "blink",
+    "pluralName": "blinks",
+    "displayName": "blink"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    }
+  }
+}
